@@ -1,10 +1,12 @@
-# Bookings and Reservations
+## Bookings and Reservations
 
-Situation:  Need to have experiences about GoLang
+# Situation:  
+Need to have experiences about GoLang
 
-Task:  Build a bed & breakfast inn web project that has search reservation and make reservation 
+# Task:  
+Build a bed & breakfast inn web project that has search reservation and make reservation 
 
-Action:
+# Action:
 
 Need following packages:
 
@@ -18,7 +20,7 @@ Research on Google/Github/Stack Overflow, found the following packages with exam
 	github.com/go-chi/chi/v5 v5.0.7 // indirect
 	github.com/justinas/nosurf v1.1.1 // indirect
 
-Result:
+# Result:
 Complete the full stack application that has 
 
 •	Front end (HTML, Javascript, css)
