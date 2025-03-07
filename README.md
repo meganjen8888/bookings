@@ -29,9 +29,6 @@ Complete the full stack application that has
      		 A router for building Go HTTP services
 •	Database, which is PostgreSQL
 
-![image](https://github.com/user-attachments/assets/ef51bd5e-2f2d-4f78-a3d9-de7bf0aeafd7)
-
-
 This is the repository for my bookings and reservations project.
 
 - Build in Go version 1.15
